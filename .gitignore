@@ -1,0 +1,57 @@
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.so
+*.dylib
+*.su
+*.o
+*.a
+*.lib
+*.lai
+*.la
+*.gch
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.sln.docstates
+.DS_Store
+
+# User-specific files
+*.rsuser
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+
+# NuGet
+*.nupkg
+*.nuspec
+.nuget/
+
+# Local environment files
+.env
+.env.local
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Application logs
+logs/
+*.log
