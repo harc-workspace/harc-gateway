@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.HttpOverrides;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.AddServiceDefaults();
 
 // 1. KURUMSAL CORS POLİTİKASI (React önyüzünün kapıdan geçebilmesi için)
 builder.Services.AddCors(options =>
