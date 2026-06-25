@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\aspire-host\Harc.ServiceDefaults\Harc.ServiceDefaults.csproj" />
+    <ProjectReference Include="..\harc-aspire-host\Harc.ServiceDefaults\Harc.ServiceDefaults.csproj" />
   </ItemGroup>
 
 </Project>
